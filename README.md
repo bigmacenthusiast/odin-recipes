@@ -1,1 +1,1 @@
-this is going to be a basic recipe website
+Hi, this is a basic HTML project about some cooking recipes.
